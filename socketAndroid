@@ -1,0 +1,4 @@
+ServerSocket.bind([ip],port)
+ServerSocket.accept()=> Socket
+Socket.getOutputStream()=> outputStream
+Socket.getInputStream() => inputStream
