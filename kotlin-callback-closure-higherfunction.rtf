@@ -1,0 +1,71 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue109;\red31\green136\blue139;\red109\green109\blue109;
+\red0\green0\blue254;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c42745;\csgenericrgb\c12157\c53333\c54510;\csgenericrgb\c42745\c42745\c42745;
+\csgenericrgb\c0\c0\c99608;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\b\fs32 \cf2 \
+// t\uc0\u7841 o lambda function example callback(condition)\
+	fun 
+\f1\b0 \cf0 <\cf3 T\cf0 : Int> filter(array: ArrayList<\cf3 T\cf0 >,condition: (first: \cf3 T\cf0 , second: \cf3 T\cf0 ) -> 	Boolean): ArrayList<\cf3 T\cf0 > \
+	\{\
+    		
+\f0\b \cf2 var 
+\f1\b0 \cf0 newArray: ArrayList<\cf3 T\cf0 > = ArrayList\cf4 <T>\cf0 ()\
+    		
+\f0\b \cf2 for 
+\f1\b0 \cf0 ((i, e) 
+\f0\b \cf2 in 
+\f1\b0 \cf0 array) \{\
+        		
+\f0\b \cf2 if 
+\f1\b0 \cf0 condition(e,array[i+\cf5 1\cf0 ])
+\f0\b \{\
+            			
+\f1\b0 newArray.add(e)\
+       	 	
+\f0\b \}\
+    		
+\f1\b0 \}\
+    		
+\f0\b \cf2 return 
+\f1\b0 \cf0 newArray\
+	\}\
+\
+
+\f0\b \cf2 	fun 
+\f1\b0 \cf0 asfdasf() \{\
+    		
+\f0\b \cf2 var 
+\f1\b0 \cf0 newArray: ArrayList<Int> = ArrayList\cf4 <Int>\cf0 ()\
+    		filter(newArray, 
+\f0\b \{ 
+\f1\b0 first, second 
+\f0\b ->  \
+        		
+\f1\b0 first > second\
+    		
+\f0\b \}
+\f1\b0 )\
+	\}\
+// end\
+// kotlin t\uc0\u7841 o closure callback like javascript : higher order funtion\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\b \cf2 khai b\'e1o:\
+		 typealias 
+\f1\b0 \cf0 ProgressHandler = (Int) -> Unit\
+Using: \
+	1 -	function(param: any, processHandler:ProgressHandler)\
+		\{\
+			processHandler(3)  // example value: 3\
+		\}\
+\
+	2 -  processHandler = (value:Int) ->\{ print (value)\}\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+}
