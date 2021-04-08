@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <HSoKhaiThue>
+        <TTinChung>
+            <TTinDVu>
+                <maDVu>ICANHAN</maDVu>
+                <tenDVu>ICANHAN</tenDVu>
+                <pbanDVu>1.0</pbanDVu>
+                <ttinNhaCCapDVu>ICANHAN-TCT</ttinNhaCCapDVu>
+            </TTinDVu>
+            <TTinTKhaiThue>
+                <TKhaiThue>
+                    <maTKhai>392</maTKhai>
+                    <tenTKhai>Tờ khai quyết toán thuế thu nhập cá nhân 02/QTT-TNCN (TT92/2015)</tenTKhai>
+                    <moTaBMau>Áp dụng cho cá nhân cư trú có thu nhập từ tiền lương, tiền công</moTaBMau>
+                    <pbanTKhaiXML>2.1.6</pbanTKhaiXML>
+                    <loaiTKhai>C</loaiTKhai>
+                    <soLan>0</soLan>
+                    <KyKKhaiThue>
+                        <kieuKy>Y</kieuKy>
+                        <kyKKhai>2020</kyKKhai>
+                        <kyKKhaiTuNgay></kyKKhaiTuNgay>
+                        <kyKKhaiDenNgay></kyKKhaiDenNgay>
+                        <kyKKhaiTuThang>01/2020</kyKKhaiTuThang>
+                        <kyKKhaiDenThang>12/2020</kyKKhaiDenThang>
+                    </KyKKhaiThue>
+                    <maCQTNoiNop>70100</maCQTNoiNop>
+                    <tenCQTNoiNop>Cục Thuế Thành phố Hồ Chí Minh</tenCQTNoiNop>
+                    <ngayLapTKhai>07/04/2021</ngayLapTKhai>
+                    <GiaHan>
+                        <maLyDoGiaHan></maLyDoGiaHan>
+                        <lyDoGiaHan></lyDoGiaHan>
+                    </GiaHan>
+                    <nguoiKy></nguoiKy>
+                    <ngayKy>2021-04-07</ngayKy>
+                    <nganhNgheKD></nganhNgheKD>
+                </TKhaiThue>
+                <NNT>
+                    <mst>8015180695</mst>
+                    <tenNNT>Nguyễn Trung Thành</tenNNT>
+                    <dchiNNT>5/6 KP Hiệp Bình, Phường Hiệp Ninh</dchiNNT>
+                    <phuongXa></phuongXa>
+                    <maHuyenNNT>70901</maHuyenNNT>
+                    <tenHuyenNNT>Thành phố Tây Ninh</tenHuyenNNT>
+                    <maTinhNNT>709</maTinhNNT>
+                    <tenTinhNNT>Tây Ninh</tenTinhNNT>
+                    <dthoaiNNT>0989868681</dthoaiNNT>
+                    <faxNNT></faxNNT>
+                    <emailNNT>victo202298@gmail.com</emailNNT>
+                </NNT>
+            </TTinTKhaiThue>
+        </TTinChung>
+        <CTieuTKhaiChinh>
+            <Header>
+                <ct12>9684387</ct12>
+                <ct12a>ngân hàng ACB</ct12a>
+            </Header>
+            <ct22>107892769</ct22>
+            <ct23>107892769</ct23>
+            <ct24>0</ct24>
+            <ct25>0</ct25>
+            <ct26>0</ct26>
+            <ct27>2</ct27>
+            <ct28>242850000</ct28>
+            <ct29>132000000</ct29>
+            <ct30>105600000</ct30>
+            <ct31>0</ct31>
+            <ct32>5250000</ct32>
+            <ct33>0</ct33>
+            <ct34>0</ct34>
+            <ct35>0</ct35>
+            <ct36>6293277</ct36>
+            <ct37>6293277</ct37>
+            <ct38>0</ct38>
+            <ct39>0</ct39>
+            <ct40>0</ct40>
+            <ct41>0</ct41>
+            <ct42>0</ct42>
+            <ct43>0</ct43>
+            <ct44>0</ct44>
+            <ct45>6293277</ct45>
+            <ct46>6293277</ct46>
+            <ct47>6293277</ct47>
+            <ct48>0</ct48>
+            <ct49>0</ct49>
+        </CTieuTKhaiChinh>
+        <PLuc>
+            <PLuc_02_1_BK_QTT_TNCN>
+                <Header>
+                    <ct04 xsi:nil="true"/>
+                    <ct05 xsi:nil="true"/>
+                    <ct06 xsi:nil="true"/>
+                </Header>
+                <NPTCoCMND_MST>
+                    <CTiet>
+                        <ct10>Nguyễn Văn Nhạc</ct10>
+                        <ct11>1953-12-06</ct11>
+                        <ct12 xsi:nil="true"/>
+                        <ct13_ma>01</ct13_ma>
+                        <ct13_ten>Việt Nam</ct13_ten>
+                        <ct14>072053001177</ct14>
+                        <ct15_ma>03</ct15_ma>
+                        <ct15_ten>Cha/Mẹ</ct15_ten>
+                        <ct16>01/2020</ct16>
+                        <ct17>12/2020</ct17>
+                    </CTiet>
+                </NPTCoCMND_MST>
+                <NPTChuaCoCMND_MST>
+                    <CTiet>
+                        <ct19>Nguyễn Phan Bích Châu</ct19>
+                        <ct20>2015-05-04</ct20>
+                        <ct21>147/2015</ct21>
+                        <ct22>01/2015</ct22>
+                        <ct23_ma>01</ct23_ma>
+                        <ct23_ten>Việt Nam</ct23_ten>
+                        <ct24_ma>709</ct24_ma>
+                        <ct24_ten>Tây Ninh</ct24_ten>
+                        <ct25_ma>70901</ct25_ma>
+                        <ct25_ten>Thành phố Tây Ninh</ct25_ten>
+                        <ct26_ma>7090111</ct26_ma>
+                        <ct26_ten>Phường Hiệp Ninh</ct26_ten>
+                        <ct27_ma>01</ct27_ma>
+                        <ct27_ten>Việt Nam</ct27_ten>
+                        <ct28_ma>01</ct28_ma>
+                        <ct28_ten>Con</ct28_ten>
+                        <ct29>01/2020</ct29>
+                        <ct30>12/2020</ct30>
+                    </CTiet>
+                </NPTChuaCoCMND_MST>
+            </PLuc_02_1_BK_QTT_TNCN>
+        </PLuc>
+    </HSoKhaiThue>
+</HSoThueDTu>
