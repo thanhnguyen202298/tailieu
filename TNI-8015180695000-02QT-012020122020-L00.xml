@@ -24,15 +24,15 @@
                         <kyKKhaiTuThang>01/2020</kyKKhaiTuThang>
                         <kyKKhaiDenThang>12/2020</kyKKhaiDenThang>
                     </KyKKhaiThue>
-                    <maCQTNoiNop>70100</maCQTNoiNop>
-                    <tenCQTNoiNop>Cục Thuế Thành phố Hồ Chí Minh</tenCQTNoiNop>
-                    <ngayLapTKhai>07/04/2021</ngayLapTKhai>
+                    <maCQTNoiNop>70103</maCQTNoiNop>
+                    <tenCQTNoiNop>Chi cục Thuế Quận 2</tenCQTNoiNop>
+                    <ngayLapTKhai>09/04/2021</ngayLapTKhai>
                     <GiaHan>
                         <maLyDoGiaHan></maLyDoGiaHan>
                         <lyDoGiaHan></lyDoGiaHan>
                     </GiaHan>
                     <nguoiKy></nguoiKy>
-                    <ngayKy>2021-04-07</ngayKy>
+                    <ngayKy>2021-04-09</ngayKy>
                     <nganhNgheKD></nganhNgheKD>
                 </TKhaiThue>
                 <NNT>
@@ -46,7 +46,7 @@
                     <tenTinhNNT>Tây Ninh</tenTinhNNT>
                     <dthoaiNNT>0989868681</dthoaiNNT>
                     <faxNNT></faxNNT>
-                    <emailNNT>victo202298@gmail.com</emailNNT>
+                    <emailNNT>Victo202298@gmail.com</emailNNT>
                 </NNT>
             </TTinTKhaiThue>
         </TTinChung>
